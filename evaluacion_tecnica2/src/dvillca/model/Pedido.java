@@ -6,7 +6,7 @@ package dvillca.model;
 public class Pedido implements java.io.Serializable{
 	
 	/**
-	 * 
+	 * mod
 	 */
 	private static final long serialVersionUID = 1L;
 	

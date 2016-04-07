@@ -5,6 +5,7 @@ import dvillca.util.BumexMemcached;
 
 /**
  * @author dvillca
+ * Se hacen modificaciones
  * Consume BumexMemcached
  * PedidosCacheDAOImpl implementa PedidosDAO y es creada por su respectivo Factory (CacheDAOFactory)
  */
