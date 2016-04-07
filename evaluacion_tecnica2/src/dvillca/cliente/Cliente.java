@@ -6,6 +6,7 @@ import dvillca.util.DAOFactory;
 
 /**
  * Este es un comentario de aonaccess_mexico!
+ * Esta checkeado por el administrador
  * @author dvillca
  *
  */
