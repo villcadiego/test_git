@@ -5,8 +5,8 @@ import dvillca.util.DAOFactory;
 
 
 /**
- * Este es un comentario de aonaccess_mexico!
  * Esta checkeado por el administrador
+ * Este es un comentario de aonaccess_mexico!
  * @author dvillca
  *
  */
