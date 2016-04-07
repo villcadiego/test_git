@@ -9,6 +9,8 @@ import dvillca.util.DAOFactory;
  * Este es un comentario de aonaccess_mexico!
  * @author dvillca
  *
+ *
+ *Esto es mexico carajo!
  */
 public class Cliente {
 
